@@ -1,12 +1,13 @@
 [![MasterHead](https://www.pce.uw.edu/uwcontinuingeducation/media/pce/certificate%20programs/hero%20images/html5-css3-responsive-design-2000x600.jpg)](https://rio)
 <h1 align="center">Hi 👋, I'm Musa Alfian Maulana</h1>
-<h3 align="center">A passionate frontend web developer and graphic design</h3>
+<h3 align="center">I am a Computer Science graduate in Informatics from Diponegoro University with a strong interest in web development and 
+UI/UX design. With more than 2 years of experience as a Full Stack Web Developer, I consistently strive to produce clean, 
+efficient, and maintainable code. I have experience with web development technologies such as Laravel and React with NextJS. 
+My commitment to continuous learning keeps me ready to face new challenges and deliver the best solutions for every project.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=musaalfian&label=Profile%20views&color=0e75b6&style=flat" alt="musaalfian" /> </p>
 
 - 🔭 I’m currently working on [Faculty of Medicine Diponegoro University](https://fk.undip.ac.id/)
-
-- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React**
 
