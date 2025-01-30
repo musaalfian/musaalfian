@@ -30,13 +30,8 @@ I'm Musa Alfian Maulana, a passionate Fullstack Web Developer with over 2 years 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=musaalfian&show_icons=true&locale=en" alt="musaalfian" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=musaalfian&" alt="musaalfian" /></p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/musaalfian/musaalfian/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/musaalfian/musaalfian/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/musaalfian/musaalfian/output/github-contribution-grid-snake.svg">
-</picture>
+### 🐍 Watch Snack Eating My Contributions
+![snake gif](https://github.com/musaalfian/musaalfian/blob/output/github-contribution-grid-snake.svg)
 
 ### 🎯 Let’s Build Something Amazing!
 I’m always open to collaborations, freelance projects, and exciting opportunities. Let’s connect and create impactful digital experiences together!
