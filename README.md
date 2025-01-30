@@ -1,16 +1,17 @@
-<h1 align="center">
-  ![Image](https://github.com/user-attachments/assets/bd79295f-6649-4a98-ae4f-8f96050b3472)
-</h1>
+# Hello!👋
 
-## Hey! 👋
-I'm Musa, fullstack web developer from Semarang, Indonesia.
+### 🚀 Fullstack Web Developer | Laravel & React Enthusiast
+I'm Musa Alfian Maulana, a passionate Fullstack Web Developer with over 2 years of experience in building scalable and high-performance web applications. My expertise spans across MERN stack and Laravel + React, enabling me to create robust and user-friendly digital solutions.
 
-- 👨‍💻 Working at **Faculty of Medicine Diponegoro University**
+### 🔥 What I Bring to the Table
+✅ Fullstack Expertise <br>
+✅ Laravel & React Specialist <br>
+✅ API Development & Integration <br>
+✅ Optimized Performance <br>
+✅ Collaboration & Problem-Solving
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React**
+### 🛠️ Tech Stack
 
-
-## Connect with me
 <p align="left">
 <a href="https://codepen.io/@musaalfian_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@musaalfian_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/musaalfian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="musaalfian" height="30" width="40" /></a>
